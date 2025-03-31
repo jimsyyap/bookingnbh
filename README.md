@@ -1,4 +1,3 @@
-```markdown
 # Tennis Club Booking System
 
 An online booking system for a local tennis club built with Go, React, PostgreSQL, and Stripe. Deployed on Google Cloud Platform.
@@ -106,5 +105,3 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ## License
 MIT
-```
-
